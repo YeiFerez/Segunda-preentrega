@@ -146,3 +146,17 @@ footer {
 .letrag{
     font-size: 20px;
 }
+.bi-facebook {
+    font-size: 30px;
+    color: blue;
+  }
+
+  .bi-instagram {
+    font-size: 30px;
+    color: rgb(0, 204, 255);
+  }
+
+  .bi-twitter {
+    font-size: 30px;
+    color: rgb(182, 225, 226);
+  }
