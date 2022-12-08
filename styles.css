@@ -45,8 +45,9 @@ body {
     font-family: 'Poor Story', cursive;
     text-align: center;
 }
+
 .estiloletranor p {
-    font-family: Arial, Helvetica, sans-serif ;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 ul {
@@ -65,7 +66,7 @@ header {
     background-color: antiquewhite;
     text-align: center;
     font-size: 25px;
-    
+
 }
 
 nav {
@@ -109,57 +110,73 @@ p {
 .fondone {
     background-color: aliceblue;
 }
+
 .imgc {
     height: 150px;
     border-radius: 20%;
 }
+
 .formulario {
     font-size: 20px;
 }
- h1 {
+
+h1 {
     justify-content: center;
     text-align: center;
- }
- h3 {
+}
+
+h3 {
     text-align: center;
     font-size: 25px;
- }
- .img100 {
+}
+
+.img100 {
     display: block;
     margin: auto;
     width: 80%;
-    
- }
+
+}
+
 footer {
     text-align: center;
 }
+
 .padd div {
     padding: 30px;
     margin: 30px 30px 30px 30px;
     border: solid rgb(170, 24, 24);
 }
+
 .paddi div {
     padding: 30px;
     margin: 20px 20px 20px 20px;
     border: solid rgb(55, 42, 173);
 }
-.letrag{
+
+.letrag {
     font-size: 20px;
 }
+
 .bi-facebook {
     font-size: 30px;
     color: blue;
-  }
+}
 
-  .bi-instagram {
+.bi-instagram {
     font-size: 30px;
     color: rgb(0, 204, 255);
-  }
+}
 
-  .bi-twitter {
+.bi-twitter {
     font-size: 30px;
     color: rgb(182, 225, 226);
-  }
-  .letrarial{
-    font-family: Arial, Helvetica, sans-serif ;
-  }
+}
+
+.letrarial {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bordeee {
+    border: solid rgb(55, 42, 173);
+    
+}
